@@ -1,0 +1,6 @@
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Release\net6.0\publish\uddip2.LifeTimeSample.deps.json
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Release\net6.0\publish\uddip2.LifeTimeSample.runtimeconfig.json
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Release\net6.0\publish\uddip2.LifeTimeSample.pdb
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Release\net6.0\publish\uddip2.LifeTimeSample.dll

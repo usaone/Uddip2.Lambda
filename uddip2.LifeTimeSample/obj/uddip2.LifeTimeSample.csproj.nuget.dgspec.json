@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.lambda-sqs-sns\\uddip2.lambda-sqs-sns.csproj": {}
+    "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.LifeTimeSample\\uddip2.LifeTimeSample.csproj": {}
   },
   "projects": {
-    "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.lambda-sqs-sns\\uddip2.lambda-sqs-sns.csproj": {
+    "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.LifeTimeSample\\uddip2.LifeTimeSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.lambda-sqs-sns\\uddip2.lambda-sqs-sns.csproj",
-        "projectName": "uddip2.lambda-sqs-sns",
-        "projectPath": "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.lambda-sqs-sns\\uddip2.lambda-sqs-sns.csproj",
+        "projectUniqueName": "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.LifeTimeSample\\uddip2.LifeTimeSample.csproj",
+        "projectName": "uddip2.LifeTimeSample",
+        "projectPath": "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.LifeTimeSample\\uddip2.LifeTimeSample.csproj",
         "packagesPath": "C:\\Users\\Umitra\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.lambda-sqs-sns\\obj\\",
+        "outputPath": "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.LifeTimeSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,10 +48,6 @@
               "target": "Package",
               "version": "[2.1.0, )"
             },
-            "Amazon.Lambda.SQSEvents": {
-              "target": "Package",
-              "version": "[2.1.0, )"
-            },
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.3.0, )"
@@ -69,7 +65,15 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[6.0.3, 6.0.3]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.3, 6.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
               "version": "[6.0.3, 6.0.3]"
             }
           ],
@@ -79,6 +83,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

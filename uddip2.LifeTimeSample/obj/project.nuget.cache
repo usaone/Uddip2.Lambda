@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/2tAT+u5lxvp/Q+gw8OGjxwObTrbLsXjpVjjNXRy6tdCwd0EPlF3swiN18bZIhM5DNPMu5sAp7VDN5uyHKV1w==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Udemy\\RNath\\Uddip2.Lambda\\uddip2.LifeTimeSample\\uddip2.LifeTimeSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Umitra\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Umitra\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Umitra\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.3\\microsoft.netcore.app.runtime.linux-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Umitra\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.3\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Umitra\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

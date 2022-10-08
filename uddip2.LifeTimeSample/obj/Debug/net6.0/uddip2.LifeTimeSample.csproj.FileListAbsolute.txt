@@ -1,0 +1,17 @@
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Debug\net6.0\uddip2.LifeTimeSample.deps.json
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Debug\net6.0\uddip2.LifeTimeSample.runtimeconfig.json
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Debug\net6.0\uddip2.LifeTimeSample.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Debug\net6.0\uddip2.LifeTimeSample.pdb
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.csproj.AssemblyReference.cache
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.AssemblyInfoInputs.cache
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.AssemblyInfo.cs
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.csproj.CoreCompileInputs.cache
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.csproj.CopyComplete
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\refint\uddip2.LifeTimeSample.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.pdb
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\uddip2.LifeTimeSample.genruntimeconfig.cache
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.LifeTimeSample\obj\Debug\net6.0\ref\uddip2.LifeTimeSample.dll
