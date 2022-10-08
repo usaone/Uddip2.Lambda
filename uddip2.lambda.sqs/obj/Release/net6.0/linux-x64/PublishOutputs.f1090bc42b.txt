@@ -1,0 +1,7 @@
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.lambda.sqs\bin\Release\net6.0\publish\uddip2.lambda.sqs.deps.json
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.lambda.sqs\bin\Release\net6.0\publish\uddip2.lambda.sqs.runtimeconfig.json
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.lambda.sqs\bin\Release\net6.0\publish\uddip2.lambda.sqs.pdb
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.lambda.sqs\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.lambda.sqs\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.lambda.sqs\bin\Release\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+D:\Source\Udemy\RNath\Uddip2.Lambda\uddip2.lambda.sqs\bin\Release\net6.0\publish\uddip2.lambda.sqs.dll
